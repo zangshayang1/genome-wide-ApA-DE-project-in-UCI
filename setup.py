@@ -10,7 +10,7 @@ setup(
       license = open('LICENCE.txt').read(),
       packages = ['APAP',],
       long_description=open('README.txt').read(),
-      py_modules = ['io',
+      py_modules = ['myio',
                     'const',
                     'logger',
                     'reference',
